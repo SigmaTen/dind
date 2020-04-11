@@ -1,0 +1,42 @@
+*************** PLANS FOR THIS THING WE TRYNA DO ***************
+
+DM TOOLS:
+  Needs to be able to see all player rolls
+    Prompt them to roll?
+
+  Needs to be able to grant XP
+  Give/take items
+  Roll for monsters etc
+  Deal damage to players (negative = healing)
+
+
+
+CHARACTER DEVELOPMENT:
+  Character selection and creation tools
+    Creation:
+      Roll 4 D6 and keep best 3, choose which stats rolls are applied to
+      Name
+      Race
+      Class
+      Alignment
+      Bio (optional)
+
+CHAT FUNCTIONALITY:
+  Peeps like to talk
+  DM private messaging
+
+
+
+DATABASE FUNCTIONALITY:
+
+
+
+
+
+
+GAMEPLAY:
+
+  Dice rolls (Obviously)
+    D4,D6,D8,D10,D12,D20
+    Should auto compute proficiencies and bonuses
+      This needs to be implemented somehow in roll screen
